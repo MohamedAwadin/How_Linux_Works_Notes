@@ -32,7 +32,7 @@
 
 5. what are special charaters?
     <p align='center'>
-    <img width="75%" src="img/Special Characters.jpeg"/>
+    <img width="75%" src="Img/Special Characters.jpeg"/>
     </p>
 
 
@@ -41,7 +41,7 @@
 
 7. what are online manual section ?
     <p align='center'>
-    <img width="75%" src="img/Online Manual Sections.jpeg"/>
+    <img width="75%" src="Img/Online Manual Sections.jpeg"/>
     </p>
 
 8. ps Command Options?
@@ -72,7 +72,7 @@ kill -CONT pid  # to continue a process
 	- Normally, when you run a Unix command from the shell, you don’t get the shell prompt back until the program finishes executing. However, you can detach a process from the shell and put it in the “background” with the ampersand (&); this gives you the prompt back.
 
 	<p align='center'>
-    <img width="75%" src="img/using&.jpeg"/>
+    <img width="75%" src="Img/using&.jpeg"/>
     </p>
 
 12. what is nohub command?
@@ -86,7 +86,7 @@ kill -CONT pid  # to continue a process
 
 15. display file permissions 
     <p align='center'>
-    <img width="75%" src="img/The pieces of a file mode.jpeg"/>
+    <img width="75%" src="Img/The pieces of a file mode.jpeg"/>
     </p>
 
 16. How to change permissions?
@@ -105,7 +105,7 @@ chmod u+x file  # add execute permission to user
 17. change permissions using binary representations?
 
     <p align='center'>
-    <img width="75%" src="img/Absolute Permission Modes.jpeg"/>
+    <img width="75%" src="Img/Absolute Permission Modes.jpeg"/>
     </p>
 
 
