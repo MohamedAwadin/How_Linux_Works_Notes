@@ -5,7 +5,7 @@
 	- os includes kernel and application
 
 	<p align='center'>
-	<img width="75%" src="img/General Linux system organization.jpeg"/>
+	<img width="75%" src="Img/General Linux system organization.jpeg"/>
 	</p>
 
 <br>
@@ -125,7 +125,7 @@
 14. what happened when you type ls?
 	- When you enter ls into a terminal window, the shell that’s running inside the terminal window calls fork() to create a copy of the shell, and then the new copy of the shell calls exec(ls) to run ls.
 	<p align='center'>
-	<img width="75%" src="./img/Starting a new process.jpeg"/>
+	<img width="75%" src="Img/Starting a new process.jpeg"/>
 	</p>
 
 	- This design provides isolation and stability. If the `ls` command crashes or misbehaves, it doesn’t affect the shell or other parts of the system.
@@ -158,7 +158,7 @@
 
 
 	<p align='center'>
-	<img width="75%" src="img/Process types and interactions.jpeg"/>
+	<img width="75%" src="Img/Process types and interactions.jpeg"/>
 	</p>
 
 
